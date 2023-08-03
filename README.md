@@ -1,11 +1,11 @@
 ### Hi there 👋
-<br>- My name is Matheus Cesar Rodrigues and I'm studying to be a good Fullstack Developer.
-<br>- The technologies I'm currently learning is C#/Asp.net for Backend and HTML/CSS/Js for Frontend.
-<br>- I'm currently studying Technologist in Systems Analysis and Development at Newton Paiva University.
-<br>- I've worked for 10 years with IT Support and now I'm looking for a oportunity to work as a developer.
-<br>- I live in the city of Belo Horizonte, state of Minas Gerais, Brazil.
-<br>- Contact: Phone: +55 (31) 97502-8572   |   Email: matheuscesarr@gmail.com
-<br><a href="" target="_blank"> Click Here! </a> to access my personal portfolio webpage:
+<br><br>- My name is Matheus Cesar Rodrigues and I'm studying to be a good Fullstack Developer.
+<br><br>- The technologies I'm currently learning is C#/Asp.net for Backend and HTML/CSS/Js for Frontend.
+<br><br>- I'm currently studying Technologist in Systems Analysis and Development at Newton Paiva University.
+<br><br>- I've worked for 10 years with IT Support and now I'm looking for a oportunity to work as a developer.
+<br><br>- I live in the city of Belo Horizonte, state of Minas Gerais, Brazil.
+<br><br>- Contact: Phone: +55 (31) 97502-8572   |   Email: matheuscesarr@gmail.com
+<br><br><a href="" target="_blank"> Click Here! </a> to access my personal portfolio webpage:
 
 
 <br><br>Check my main repositories below:
