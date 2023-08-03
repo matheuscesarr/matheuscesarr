@@ -5,8 +5,8 @@
 <br>- I've worked for 10 years with IT Support and now I'm looking for a oportunity to work as a developer.
 <br>- I live in the city of Belo Horizonte, state of Minas Gerais, Brazil.
 <br>- Contact: Phone: +55 (31) 97502-8572   |   Email: matheuscesarr@gmail.com
-<br><b>Click the link below to access my personal portfolio webpage:
-<br><a href="" target="_blank"> Click Here! </a>
+<br><a href="" target="_blank"> Click Here! </a> to access my personal portfolio webpage:
+
 
 <br><br>Check my main repositories below:
 </b>
