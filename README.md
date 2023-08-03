@@ -1,4 +1,5 @@
 ### Hi there 👋
+<b>
 <br><br>- My name is Matheus Cesar Rodrigues and I'm studying to be a good Fullstack Developer.
 <br><br>- The technologies I'm currently learning is C#/Asp.net for Backend and HTML/CSS/Js for Frontend.
 <br><br>- I'm currently studying Technologist in Systems Analysis and Development at Newton Paiva University.
