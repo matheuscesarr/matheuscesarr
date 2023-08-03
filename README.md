@@ -6,7 +6,7 @@
 <br>- I live in the city of Belo Horizonte, state of Minas Gerais, Brazil.
 <br>- Contact:
 <br>Phone: +55 (31) 97502-8572
-<br>Mail: matheuscesarr@gmail.com
+<br>Email: matheuscesarr@gmail.com
 <br><b>Click the link below to acces my personal portfolio webpage:
 <br>https://www.matheuscesar.rf.gd
 <br>Check my main repositories below:
