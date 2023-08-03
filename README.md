@@ -9,7 +9,8 @@
 <br>Email: matheuscesarr@gmail.com
 <br><b>Click the link below to access my personal portfolio webpage:
 <br><a href="" target="_blank"> Click Here! </a>
-<br>Check my main repositories below:
+
+<br><br>Check my main repositories below:
 </b>
 <!--
 **matheuscesarr/matheuscesarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
