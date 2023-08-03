@@ -4,9 +4,7 @@
 <br>- I'm currently studying Technologist in Systems Analysis and Development at Newton Paiva University.
 <br>- I've worked for 10 years with IT Support and now I'm looking for a oportunity to work as a developer.
 <br>- I live in the city of Belo Horizonte, state of Minas Gerais, Brazil.
-<br>- Contact:
-<br>Phone: +55 (31) 97502-8572
-<br>Email: matheuscesarr@gmail.com
+<br>- Contact: Phone: +55 (31) 97502-8572 Email: matheuscesarr@gmail.com
 <br><b>Click the link below to access my personal portfolio webpage:
 <br><a href="" target="_blank"> Click Here! </a>
 
